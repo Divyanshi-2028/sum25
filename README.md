@@ -1,5 +1,5 @@
 # sum25
 
-author- Divyanshi Chauhan
+author- Divyanshi Chauhan(college student)
 <br>
 college- DIT university
